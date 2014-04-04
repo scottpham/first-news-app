@@ -1,0 +1,6 @@
+<html lang="en">
+    <head></head>
+    <body>
+        <h1>{{ object.full_name }}</h1>
+    </body>
+</html>
